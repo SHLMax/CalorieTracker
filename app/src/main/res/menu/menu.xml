@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_outline_home_24"/>
+    <item
+        android:id="@+id/food"
+        android:title="Food"
+        android:icon="@drawable/ic_baseline_fastfood_24"/>
+    <item
+        android:id="@+id/graph"
+        android:title="Graph"
+        android:icon="@drawable/ic_outline_bar_chart_24"/>
+    <item
+        android:id="@+id/friend"
+        android:title="Friend"
+        android:icon="@drawable/ic_outline_group_24"/>
+</menu>
